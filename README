@@ -1,0 +1,3 @@
+Java project written in 2018 by Josephine Palmhede for a CMSC204 course taught at Montgomery College. 
+Manages a collection of towns and roads using a graph. Calculates the shortest distance from one town to another using
+a custom written Djikstra's algorithm. Includes student written JUnit tests
